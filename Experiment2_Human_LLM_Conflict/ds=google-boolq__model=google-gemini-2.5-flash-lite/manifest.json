@@ -1,0 +1,11 @@
+{
+  "model_name": "google/gemini-2.5-flash-lite",
+  "dataset_name": "google/boolq",
+  "temperature": 0.0,
+  "max_tokens": 32,
+  "n_ques": 300,
+  "k_list": "1,3,5,9",
+  "include_splits": true,
+  "collect_conf": false,
+  "seed": 42
+}

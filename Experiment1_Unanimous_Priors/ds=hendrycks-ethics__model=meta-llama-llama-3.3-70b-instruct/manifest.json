@@ -1,0 +1,11 @@
+{
+  "model_name": "meta-llama/llama-3.3-70b-instruct",
+  "dataset_name": "hendrycks/ethics",
+  "temperature": 0.0,
+  "max_tokens": 32,
+  "n_ques": 300,
+  "k_list": "1,3,5,9",
+  "include_splits": false,
+  "collect_conf": false,
+  "seed": 42
+}
