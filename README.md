@@ -1,6 +1,6 @@
 # LLM Conformity Dataset
 
-This repository contains prompts and model responses for the experiments in *Who Do LLMs Trust? Human Experts Matter More Than Other LLMs*.
+This repository contains prompts and model responses for the experiments in *Who Do LLMs Trust? Human Experts Matter More Than Other LLMs* ([https://arxiv.org/abs/2602.13568](https://arxiv.org/abs/2602.13568)).
 
 The data cover three YES/NO benchmarks (BoolQ, StrategyQA, ETHICS) and two experimental settings that add short social prior statements to the prompt.
 
@@ -88,4 +88,4 @@ For Llama 3.3 70B on BoolQ only, we also include token-level log-probabilities f
 
 ## Paper
 
-Anooshka Bajaj and Zoran Tiganj. *Who Do LLMs Trust? Human Experts Matter More Than Other LLMs*.
+Anooshka Bajaj and Zoran Tiganj. *Who Do LLMs Trust? Human Experts Matter More Than Other LLMs* ([https://arxiv.org/abs/2602.13568](https://arxiv.org/abs/2602.13568)).
